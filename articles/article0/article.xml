@@ -1,0 +1,28 @@
+<article title="Issue 0: Welcome">
+  Hello! Welcome to **Understanding through Python**
+
+  <section title="Why read this blog?">
+    Are you an expert programmer looking for an interactive way to explore other domains of knowledge? Perhaps you're new to programming and looking for some fun python exercises. Maybe by some fluke combination of randomly flipped bits your browser took you to this site. blah blah blah
+  </section>
+
+  <section title="Topics we will explore">
+    Depends on what readers want but topics I want to explore include:
+     - geometric algebra
+     - mechanics (classical, relativistic, and quantum)
+     - discrete systems
+     - turing machines
+     - abstract algebra
+  </section>
+
+  <section title="Philosophical note: what's an abstraction anyway?">
+    An essential question with which you should wrestle when reading this blog is on the nature of mathematical abstractions themselves. This is a question in the vain of, "what is 2?" or "what does it mean for a group of birds to fly by?" or even "do physical objects/structures really exist or just the principal parts (ie particles) that make them up?" While I offer no definitive answer to these questions (who could?) I suggest you embrace the following philosophy when reading this blog: abstract structures like numbers and sets are linguistic tools we use to communicate and reason about the world we experience. Some abstractions like the group of birds has a relatively direct correspondence to reality: if we say "a group of birds flew by" that's just shorthand for "bird 1, bird 2, and bird 3 each flew by in unison." where "birdx" corresponds to an actual physical bird and it is known already from context and that "bird 1, bird 2, and bird 3" are all in the group. The group in this caase is the abstract structure and "in" is a word we use to denote a relationship which birds may have with this structure much like we would say about physical objects "the pen is in the cup."
+
+Some abstractions have a very indirect correspondence to reality: the mathematical statement "2 + 2 = 4" is shorthand for "combining two objects together makes four objects" where "combining" and "objects" can have substantially different meanings depending on the context, that is, the specific physical situation to which you are applying the statement.
+
+    In every case however an abstract structure is an object which does not tangibly exist. Our brains have evolved to model physical objects quite well and we have impresively applied that same wetware to abstract reasoning. We have done so often by tricking our minds into thinking that abstract objects are real things with which we can interact. It is out of this conflation that schools like Platonism (link) have emerged in which these abstract objects are believed to exist in some reality beyond our own but which can be navigated by the divine human brain. I don't believe this to be the case.
+
+    What's all this got to do with Python? Everything. Like any object-oriented language (link), python lets you describe objects and classes of objects as humans would. We say that objects have "properties" which is shorthand for saying "this is the behavior we notice from the object and which emerges from the interactions of its constituent parts." We might describe two distinct objects as equivalent because for our purposees they are. Most importantly, in abstract reasoning and in python, objects are defined by how we describe them. We might say that "2 is the successor of 1" in the domain of mathematics, or say "Richard the blah was the successor of Edward the blah," in the domain of history, or say "King("Edward").successor = King("Richard")" in python. Don't take any such example to be a description of some meta-physical reality which contains 2 and 1 and relations bewteen them. Rather know that we are asserting that these statements about abstract structures are true and wondering what we can infer through logic and computation about any physical system that is described by these assertions.
+
+    You may find when modeling objects in python you have to make a trade-off between a "true" description of reality and a pragmatic one. Just remember that ultimately the point of language is communication and reasoning... finish this off
+  </section>
+</article>
